@@ -118,7 +118,7 @@ resume-sparkle-630/
 
 ## 👨‍💻 Author
 
-**Mahesh**
+**VOMMI UMA Mahesh**
 
 ---
 
